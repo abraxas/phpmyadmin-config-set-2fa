@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/phpmyadmin-config-set-2fa">phpmyadmin-config-set-2fa</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/phpmyadmin-config-set-2fa"><strong>https://abraxaslabs.tech/research/phpmyadmin-config-set-2fa</strong></a>
+</p>
+
 
 # phpmyadmin-config-set-2fa
 
